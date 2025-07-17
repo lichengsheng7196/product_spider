@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# venv
+.venv/
+env/
+*.sqlite3
+
+# IDE
+.idea/
+
+# Driver
+drivers/msedgedriver.exe

@@ -1,0 +1,5 @@
+#config
+mode: login
+phone: 15959027196
+headless: false
+platforms: ["taobao"]
